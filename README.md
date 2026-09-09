@@ -31,8 +31,8 @@ Vanilla JavaScript(ES6+) · 빌드 도구 없이 `<script>` 태그 기반으로 
 
 | 홈 | 지도 | QR 스탬프 |
 | --- | --- | --- |
-| ![홈](assets/KakaoTalk_20260909_202814567.jpg) | ![지도](assets/KakaoTalk_20260909_202814567_01.jpg) | ![QR 스탬프](assets/KakaoTalk_20260909_202814567_02.jpg) |
+| <img src="assets/KakaoTalk_20260909_202814567.jpg" width="220" /> | <img src="assets/KakaoTalk_20260909_202814567_01.jpg" width="220" /> | <img src="assets/KakaoTalk_20260909_202814567_02.jpg" width="220" /> |
 
 | 일정 (예시 데이터) | 문의 |
 | --- | --- |
-| ![일정](assets/KakaoTalk_20260909_203732191.png) | ![문의](assets/KakaoTalk_20260909_202814567_04.jpg) |
+| <img src="assets/KakaoTalk_20260909_203732191.png" width="220" /> | <img src="assets/KakaoTalk_20260909_202814567_04.jpg" width="220" /> |
